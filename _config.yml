@@ -12,13 +12,6 @@ description: Web Developer from insit
 avatar: https://avatars1.githubusercontent.com/u/35065252?s=460&u=60cf7c35546690113ed8c409ae572bc7c00c4b34&v=4
 
 
-# Conversion
-markdown: redcarpet
-highlighter: rouge
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
-
 #
 # Flags below are optional
 #
