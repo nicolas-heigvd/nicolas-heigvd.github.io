@@ -14,7 +14,7 @@ avatar: https://avatars1.githubusercontent.com/u/35065252?s=460&u=60cf7c35546690
 
 # Conversion
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
