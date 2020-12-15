@@ -88,5 +88,6 @@ exclude:
   - CNAME
 
 #theme: jekyll-theme-cayman
-remote_theme: daattali/beautiful-jekyll
+remote_theme: pietromenna/jekyll-cayman-theme
+#daattali/beautiful-jekyll
 #stackbithq/stackbit-theme-fjord
