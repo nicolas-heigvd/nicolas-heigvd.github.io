@@ -11,6 +11,7 @@ description: "{Web|GIS} Developer from insit"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/35065252?s=460&u=60cf7c35546690113ed8c409ae572bc7c00c4b34&v=4
 
+favicon: favicon.ico
 
 #
 # Flags below are optional
@@ -87,4 +88,5 @@ exclude:
   - CNAME
 
 #theme: jekyll-theme-cayman
-remote_theme:  stackbithq/stackbit-theme-fjord
+remote_theme: daattali/beautiful-jekyll
+#stackbithq/stackbit-theme-fjord
