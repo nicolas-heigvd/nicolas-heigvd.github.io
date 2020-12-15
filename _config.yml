@@ -86,4 +86,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme:  stackbithq/stackbit-theme-fjord
