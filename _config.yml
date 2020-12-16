@@ -94,3 +94,4 @@ exclude:
 remote_theme: pietromenna/jekyll-cayman-theme
 #daattali/beautiful-jekyll
 #stackbithq/stackbit-theme-fjord
+theme: jekyll-theme-cayman
